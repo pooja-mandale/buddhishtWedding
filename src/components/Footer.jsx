@@ -15,7 +15,7 @@ const Footer = () => {
         <p className="mb-8 text-lg font-light">
           Your presence at our wedding is the greatest gift of all.
         </p>
-        <div className="text-2xl font-serif text-[#C7A24C]">~ Pooja & Somesh ~</div>
+        <div className="text-2xl font-serif text-[#C7A24C]">~ Pooja & Rahul ~</div>
         <p className="mt-8 text-xs text-[#8C7B6E]">Developed by Pooja Mandale</p>
       </div>
     </motion.footer>
