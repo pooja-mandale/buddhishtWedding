@@ -24,7 +24,7 @@ const BrideGroom = () => {
         >
           <h3 className="text-2xl font-serif text-[#5A4636] mb-2">Ms. Pooja Mandale</h3>
           <p className="text-sm text-[#8C7B6E] uppercase tracking-wide">
-            D/o Mr. & Mrs. Mandale
+            D/o Mr. & Mrs. Gaikwad
           </p>
         </motion.div>
 
@@ -37,7 +37,7 @@ const BrideGroom = () => {
           viewport={{ once: true }}
           className="bg-white p-8 rounded-2xl shadow-lg w-full md:w-1/3 border-t-4 border-[#C7A24C]"
         >
-          <h3 className="text-2xl font-serif text-[#5A4636] mb-2">Mr. Somesh Patil</h3>
+          <h3 className="text-2xl font-serif text-[#5A4636] mb-2">Mr. Rahul Patil</h3>
           <p className="text-sm text-[#8C7B6E] uppercase tracking-wide">
             S/o Mr. & Mrs. Patil
           </p>

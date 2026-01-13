@@ -26,7 +26,7 @@ const Hero = () => {
 
         {/* Names */}
         <h1 className="text-4xl md:text-5xl font-serif text-[#B89B5E] mb-2">
-          Pooja & Somesh
+          Pooja & Rahul
         </h1>
 
         <p className="text-[#5A4636] text-sm tracking-[0.3em] uppercase mb-5">
